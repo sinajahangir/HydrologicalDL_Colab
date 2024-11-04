@@ -1,6 +1,6 @@
-# Probabilistic Deep Learning Models
+# Novel Deep Learning Models For Hydrological Prediction
 
-This repository contains code and resources for developing probabilistic deep learning (DL) models. The repository is designed to be accessed and run using Google Colab.
+This repository contains code and resources for developing deep learning (DL) models for hydrological prediction. The repository is designed to be accessed and run using Google Colab.
 
 ## Table of Contents
 - Introduction
